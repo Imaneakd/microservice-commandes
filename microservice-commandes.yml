@@ -1,2 +1,1 @@
-mes-config-ms:
-  commandes-last: 10
+http://localhost:8080/commandes?lastDays=10
